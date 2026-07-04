@@ -28,7 +28,9 @@ MVP yang akan dibangun dalam proyek ini mencakup:
 ---
 
 ## Status Proyek
-> **Status Saat Ini:** `Hari ke-1 - Perencanaan & Setup`
-> * ✅ Menentukan rumusan masalah dan arsitektur pendekatan (DL/CV).
-> * ✅ Inisialisasi struktur repositori GitHub (`/data`, `/notebooks`, `/src`).
-> * ✅ Pengaturan *virtual environment* dan instalasi *dependencies* awal.
+> `Hari ke-1 - Perencanaan & Setup`
+> Menentukan rumusan masalah dan arsitektur pendekatan (DL/CV).
+> Inisialisasi struktur repositori GitHub (`/data`, `/notebooks`, `/src`).
+> Pengaturan *virtual environment* dan instalasi *dependencies* awal.
+
+> `Hari ke-2 - `
