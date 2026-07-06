@@ -28,9 +28,18 @@ MVP yang akan dibangun dalam proyek ini mencakup:
 ---
 
 ## Status Proyek
-> `Hari ke-1 - Perencanaan & Setup`
+> `Hari ke-1`
 > Menentukan rumusan masalah dan arsitektur pendekatan (DL/CV).
 > Inisialisasi struktur repositori GitHub (`/data`, `/notebooks`, `/src`).
 > Pengaturan *virtual environment* dan instalasi *dependencies* awal.
 
-> `Hari ke-2 - `
+> `Hari ke-2`
+> Menmbah dataset
+> Notebook EDA
+> Definisi Maalah
+
+> `Hari ke-3`
+> Bangun baseline model (item-based CF / content-based TF-IDF)
+> Evaluasi
+
+> `Hari ke-4`
